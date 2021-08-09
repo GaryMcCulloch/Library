@@ -137,39 +137,3 @@ export default Footer;
 
 
 
-// .container{
-//     h1{
-//         display: none;
-//     }
-//     width: 100%;
-//     height: auto;
-//     background: linear-gradient(90deg, rgb(110 ,94, 254) 0%, rgba(73, 63,252,1) 100%);
-//     display: grid;
-//     justify-content: center;
-//     align-content: center;
-//     display: grid;
-//     gap: 10rem;
-//     grid-auto-flow: column;
-    
-//     .footer-item{
-//         color: #fff;
-//         justify-self: center;
-
-//     }
-//     ul{
-//         padding: 0;
-//     }
-//     li{
-//         list-style-type: none;
-//         padding: .7rem 0;
-//         cursor: pointer;
-//     }
-
-//     @media only screen and (max-width: 1000px){
-//         .container{
-//             h1{
-//         display: block;
-//     }
-//         }
-//     }
-// }
