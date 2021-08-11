@@ -113,6 +113,7 @@ const FooterStyled = styled.div`
         border-radius: 50%;
         color: #fff;
         transition: all 0.5s ease;
+        cursor: pointer;
     }
     .social ul li:hover {
         color: #24262b;

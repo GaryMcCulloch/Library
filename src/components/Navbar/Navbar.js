@@ -92,7 +92,7 @@ const NavbarStyled = styled.nav`
       outline: none;
       border: none;
       cursor: pointer;
-      background: #3acbf7;
+      background: rgb(163,225,238);
       color: #fff;
       margin: 0 20px;
   }
